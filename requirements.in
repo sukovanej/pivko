@@ -1,0 +1,6 @@
+requests
+bs4
+pydantic
+google-cloud-firestore
+# sqlalchemy
+# psycopg2
